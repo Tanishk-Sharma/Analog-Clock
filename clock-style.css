@@ -1,6 +1,5 @@
 #clock-container{
 	position:relative;
-	border:2px solid red;
 	background: url(clock.png) no-repeat;
 	background-size:100%;
 	margin: auto;
