@@ -15,25 +15,25 @@
 }
 	
 #hours_hand{
-    height: 22%;
+    height: 20%;
     width: 3%;
 	right: 48.75%;
-    top: 27.85%;
+    top: 28.85%;
 	opacity:0.8;
 }
 
 #minutes_hand{
-	height: 28%;
+	height: 24%;
     width: 1.65%;
-	right: 49.75%;
-    top: 21.55%;
+	right: 50.75%;
+    top: 25.55%;
 	opacity:0.8;
 }
 
 #seconds_hand{
-	height: 35%;
+	height: 27%;
     width: 1.45%;
-	right: 49.75%;
-    top: 14.85%;
+	right: 50.75%;
+    top: 22.55%;
 	opacity:0.8;
 }
